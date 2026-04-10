@@ -2,6 +2,8 @@
 """
 0-main
 """
+import utils.transport
+import utils.session
 import sys
 
 if __name__ == '__main__':
